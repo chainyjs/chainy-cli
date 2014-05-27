@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chainyjs/chainy-cli/issues"
   },
-  "homepage": "https://github.com/chainyjs/chainy-cli"
+  "homepage": "https://github.com/chainyjs/chainy-cli",
+  "dependencies": {
+    "nopt": "^2.2.1",
+    "npm": "^1.4.13"
+  }
 }
