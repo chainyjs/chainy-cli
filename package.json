@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/chainyjs/chainy-cli",
   "dependencies": {
+    "browserify": "^4.1.6",
     "chainy-core": "^1",
     "chainy-plugin-exec": "^1",
-    "browserify": "^4.1.6",
+    "heredoc": "^1.2.0",
     "nopt": "^2.2.1",
     "npm": "^1.4.13"
   }
