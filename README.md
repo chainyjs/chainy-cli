@@ -8,7 +8,6 @@
 
 <!-- BADGES/ -->
 
-[![Build Status](http://img.shields.io/travis-ci/chainyjs/chainy-cli.png?branch=master)](http://travis-ci.org/chainyjs/chainy-cli "Check this project's build status on TravisCI")
 [![NPM version](http://badge.fury.io/js/chainy-cli.png)](https://npmjs.org/package/chainy-cli "View this project on NPM")
 [![Dependency Status](https://david-dm.org/chainyjs/chainy-cli.png?theme=shields.io)](https://david-dm.org/chainyjs/chainy-cli)
 [![Development Dependency Status](https://david-dm.org/chainyjs/chainy-cli/dev-status.png?theme=shields.io)](https://david-dm.org/chainyjs/chainy-cli#info=devDependencies)<br/>
