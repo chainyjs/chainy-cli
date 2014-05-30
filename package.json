@@ -22,6 +22,10 @@
     "chainy-plugin-exec": "^1",
     "heredoc": "^1.2.0",
     "nopt": "^2.2.1",
-    "npm": "^1.4.13"
+    "npm": "^1.4.13",
+    "promptly": "^0.2.0"
+  },
+  "bin": {
+    "chainy": "./bin/chainy"
   }
 }
