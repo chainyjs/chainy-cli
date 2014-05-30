@@ -20,9 +20,13 @@
     "browserify": "^4.1.6",
     "chainy-core": "^1",
     "chainy-plugin-exec": "^1",
+    "extendr": "^2.1.0",
     "heredoc": "^1.2.0",
+    "longjohn": "^0.2.4",
+    "mkdirp": "^0.5.0",
     "nopt": "^2.2.1",
     "npm": "^1.4.13",
+    "projectz": "^0.3.13",
     "promptly": "^0.2.0"
   },
   "bin": {
