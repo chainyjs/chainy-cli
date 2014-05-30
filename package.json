@@ -1,21 +1,51 @@
 {
+  "title": "Chainy CLI",
   "name": "chainy-cli",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.1.0",
+  "preferGlobal": true,
+  "description": "The command line interface for Chainy",
+  "homepage": "https://github.com/chainyjs/chainy-cli",
+  "license": {
+    "type": "MIT"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/chainyjs/chainy-cli.git"
+  "badges": {
+    "travis": true,
+    "npm": true,
+    "david": true,
+    "daviddev": true,
+    "gittip": "bevry",
+    "flattr": "344188/balupton-on-Flattr",
+    "paypal": "QB8GQPZAH84N6",
+    "bitcoin": "https://coinbase.com/checkouts/9ef59f5479eec1d97d63382c9ebcb93a",
+    "wishlist": "http://amzn.com/w/2F8TXKSNAFG4V"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "flow",
+    "control",
+    "async",
+    "sync",
+    "tasks",
+    "batch",
+    "concurrency",
+    "data"
+  ],
+  "author": "2014+ Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
+  "maintainers": [
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
+  ],
+  "contributors": [
+    "balupton (https://github.com/balupton)"
+  ],
   "bugs": {
     "url": "https://github.com/chainyjs/chainy-cli/issues"
   },
-  "homepage": "https://github.com/chainyjs/chainy-cli",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chainyjs/chainy-cli.git"
+  },
+  "engines": {
+    "node": ">=0.4"
+  },
   "dependencies": {
     "browserify": "^4.1.6",
     "chainy-core": "^1",
@@ -26,9 +56,15 @@
     "mkdirp": "^0.5.0",
     "nopt": "^2.2.1",
     "npm": "^1.4.13",
-    "projectz": "^0.3.13",
-    "promptly": "^0.2.0"
+    "projectz": "^0.3.14"
   },
+  "devDependencies": {
+    "coffee-script": "^1.7.1"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/chainy-cli.js",
   "bin": {
     "chainy": "./bin/chainy"
   }
