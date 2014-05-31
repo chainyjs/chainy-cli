@@ -49,6 +49,8 @@
   "dependencies": {
     "browserify": "^4.1.6",
     "chainy-core": "^1",
+    "chainy-plugin-set": "^1",
+    "chainy-plugin-map": "^1",
     "chainy-plugin-exec": "^1",
     "extendr": "^2.1.0",
     "heredoc": "^1.2.0",
