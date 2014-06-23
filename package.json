@@ -1,7 +1,7 @@
 {
   "title": "Chainy CLI",
   "name": "chainy-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "preferGlobal": true,
   "description": "The command line interface for Chainy",
   "homepage": "https://github.com/chainyjs/chainy-cli",
@@ -34,7 +34,7 @@
     "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "contributors": [
-    "balupton (https://github.com/balupton)"
+    "Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
   ],
   "bugs": {
     "url": "https://github.com/chainyjs/chainy-cli/issues"
@@ -47,21 +47,22 @@
     "node": ">=0.4"
   },
   "dependencies": {
-    "browserify": "^4.1.6",
-    "chainy-core": "^1",
-    "chainy-plugin-set": "^1",
-    "chainy-plugin-map": "^1",
-    "chainy-plugin-exec": "^1",
+    "browserify": "^4.1.11",
+    "chainy-core": "1",
+    "chainy-plugin-set": "1",
+    "chainy-plugin-map": "1",
+    "chainy-plugin-exec": "1",
     "extendr": "^2.1.0",
     "heredoc": "^1.2.0",
     "longjohn": "^0.2.4",
     "mkdirp": "^0.5.0",
-    "nopt": "^2.2.1",
-    "npm": "^1.4.13",
-    "projectz": "^0.3.14"
+    "nopt": "^3.0.0",
+    "npm": "^1.4.16",
+    "projectz": "^0.3.15"
   },
   "devDependencies": {
-    "coffee-script": "^1.7.1"
+    "coffee-script": "^1.7.1",
+    "projectz": "^0.3.14"
   },
   "directories": {
     "lib": "./lib"
