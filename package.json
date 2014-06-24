@@ -53,6 +53,7 @@
     "chainy-plugin-each": "1",
     "chainy-plugin-map": "1",
     "chainy-plugin-set": "1",
+    "chainy-plugin-log": "1",
     "extendr": "^2.1.0",
     "heredoc": "^1.2.0",
     "inquirer": "^0.5.1",
