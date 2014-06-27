@@ -32,7 +32,7 @@ The command line interface for Chainy
 ## Install
 
 ### [NPM](http://npmjs.org/)
-- Use: `chainy`
+- Use: `chainy` chainy-cli`
 - Install: `npm install --global chainy-cli`
 
 <!-- /INSTALL -->

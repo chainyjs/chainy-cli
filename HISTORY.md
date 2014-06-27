@@ -1,5 +1,8 @@
 # History
 
+## v1.0.2 June 27, 2014
+- Added `chainy-cli` executable alias for `chainy` executable
+
 ## v1.0.1 June 23, 2014
 - Fixed missing `inquirer` error
 - Can now install multiple plugins and bundles at once
