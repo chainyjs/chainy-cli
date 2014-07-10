@@ -1,7 +1,7 @@
 {
   "title": "Chainy CLI",
   "name": "chainy-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "preferGlobal": true,
   "description": "The command line interface for Chainy",
   "homepage": "https://github.com/chainyjs/chainy-cli",
@@ -47,7 +47,7 @@
     "node": ">=0.4"
   },
   "dependencies": {
-    "browserify": "^4.1.11",
+    "browserify": "^4.2.0",
     "chainy-core": "1",
     "chainy-plugin-exec": "1",
     "chainy-plugin-each": "1",
@@ -58,13 +58,13 @@
     "inquirer": "^0.5.1",
     "longjohn": "^0.2.4",
     "mkdirp": "^0.5.0",
-    "nopt": "^3.0.0",
-    "npm": "^1.4.16",
+    "nopt": "^3.0.1",
+    "npm": "^1.4.20",
     "projectz": "^0.3.15"
   },
   "devDependencies": {
     "coffee-script": "^1.7.1",
-    "projectz": "^0.3.14"
+    "projectz": "^0.3.15"
   },
   "directories": {
     "lib": "./lib"

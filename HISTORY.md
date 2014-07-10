@@ -1,5 +1,9 @@
 # History
 
+## v1.0.3 July 11, 2014
+- Fixed log error
+- Updated dependencies
+
 ## v1.0.2 June 27, 2014
 - Added `chainy-cli` executable alias for `chainy` executable
 
