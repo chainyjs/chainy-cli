@@ -51,6 +51,7 @@
     "chainy-core": "1",
     "chainy-plugin-exec": "1",
     "chainy-plugin-each": "1",
+    "chainy-plugin-log": "1",
     "chainy-plugin-map": "1",
     "chainy-plugin-set": "1",
     "extendr": "^2.1.0",
